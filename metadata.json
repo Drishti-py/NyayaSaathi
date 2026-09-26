@@ -2,5 +2,7 @@
   "name": "NyayaSaathi — न्यायसाथी",
   "description": "An accessible, voice-first multilingual AI companion for legal and government assistance.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
